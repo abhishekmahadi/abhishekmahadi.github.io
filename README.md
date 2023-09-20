@@ -1,7 +1,15 @@
 # Data Scientist 
 
 ### Education 
-Masters in Finance, Data Science and Machine Learning - MIT 
+#### Alliance University
+Masters in Finance
+
+#### Bangalore University
+Bachelor of Commerce, Accounting
+
+### Technical Skills
+Tools: Python, MATLAB, Julia, Tableau, SQL, Excel, GitHub
+Certifictions: Data Science and Machine Learning (MIT), Data Structures & Algorithms (Udemy), Payroll Compliance Legislation (National Payroll Institute)
 
 ### Work Experience 
 Data Scientist @ xxxx
